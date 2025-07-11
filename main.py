@@ -2,6 +2,9 @@ import os
 import json
 from datetime import datetime, timezone
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- Configuration ---
 try:

@@ -210,3 +210,7 @@ __marimo__/
 
 # Custom
 conversation_history.json
+chorma_db*
+*.bin 
+share
+*.sqlite3
